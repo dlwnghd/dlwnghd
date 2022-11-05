@@ -186,3 +186,5 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Bootstrap          | ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)                           | `![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)`                           |
 -->
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dlwnghd&show_icons=true&theme=gotham" alt="dlwnghd" />
