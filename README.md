@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 <h1>Welcome to My GitHub!</h1>
 
@@ -189,3 +189,10 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dlwnghd&show_icons=true&theme=gotham" alt="dlwnghd" />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+    
+<a href="https://app.dooboo.io/dlwnghd"><img src="https://server.dooboo.io/github-stats/dlwnghd" width="600" /></a>
+    
+<img src="https://activity-graph.herokuapp.com/graph?username=dlwnghd&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<a href="https://github.com/dlwnghd/dlwnghd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnghd&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
