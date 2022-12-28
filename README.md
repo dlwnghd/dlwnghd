@@ -1,6 +1,37 @@
+![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=1A0F14&height=105&section=footer&text=%20LeeJuhong();&fontColor=f5ce00&fontSize=70&animation=twinkling)
+
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 <h1>Welcome to My GitHub!</h1>
+
+<hr>
+
+- 💻I'm a Software Engineer Interested in Web, Cloud and Design.
+- 🌏 I am from South Korea and living in Yongin.
+- 🔭 I’m currently working as a Software Enginner at ASM Korea.
+- 🌱 I’m currently learning React and TypeScript. 
+- 🚀 I always take care not to stay in my comfort zone.
+- 📫 How to reach me: alion0513@naver.com
+- 😄 Fun facts: I speak Korean, English. 😊
+
+
+<hr>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dlwnghd&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div>
+    <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dlwnghd&show_icons=true&theme=gotham" alt="dlwnghd" width="500"/>
+    <a align="left" href="https://app.dooboo.io/dlwnghd"><img src="https://server.dooboo.io/github-stats/dlwnghd" width="500" /></a>
+    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="" />
+</div>
+
+
+
+    
+<a href="https://github.com/dlwnghd/dlwnghd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnghd&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
 
 <h2> 📚 My tech stack </h2>
 
@@ -8,9 +39,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-
 <br>
 
 <h2> 💻 Software and tools </h2>
@@ -44,7 +75,7 @@
 <h2> 💾 Databases </h2>
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/Mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
@@ -187,12 +218,4 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Bootstrap          | ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)                           | `![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)`                           |
 -->
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dlwnghd&show_icons=true&theme=gotham" alt="dlwnghd" />
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-    
-<a href="https://app.dooboo.io/dlwnghd"><img src="https://server.dooboo.io/github-stats/dlwnghd" width="600" /></a>
-    
-<img src="https://activity-graph.herokuapp.com/graph?username=dlwnghd&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-<a href="https://github.com/dlwnghd/dlwnghd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnghd&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+
