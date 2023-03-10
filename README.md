@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=1A0F14&height=105&section=footer&text=%20LeeJuhong();&fontColor=f5ce00&fontSize=70&animation=twinkling)
+![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=1A0F14&height=105&section=footer&text=%20"견뎌"&fontColor=f5ce00&fontSize=70&animation=twinkling)
 
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
