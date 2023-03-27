@@ -17,6 +17,15 @@
 
 <hr>
 
+<h2> 🎬 My Project Video </h2>
+
+|     |     |     |
+| --- | --- | --- |
+| [내부자] - (개인 자산 관리 사이트) | [BYEOLZZI - (여행지 추천 챗봇)] | [EMBRASSER] - (결혼 정보 업체 관리자 사이트(OCR)) |
+| [<img src="https://i.ytimg.com/vi/lbNyEYV8ICw/sddefault.jpg" alt="NaeBooja" width="90%">](https://www.youtube.com/watch?v=lbNyEYV8ICw) | [<img src="https://i.ytimg.com/vi/-vqjrGk9fWk/hqdefault.jpg" alt="BYEOLZZI" width="100%">](https://www.youtube.com/watch?v=-vqjrGk9fWk&list=PLedGoSru7948D6s7qYmLzQT1uUJJTuKEA) | [<img src="https://i.ytimg.com/vi/L-dOjge5jmQ/hqdefault.jpg" alt="EMBRASSER" width="100%">](https://www.youtube.com/watch?v=L-dOjge5jmQ&list=PLedGoSru794-sniV6--9gUIQuOz5EeKA9) |
+
+<hr>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dlwnghd&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>
