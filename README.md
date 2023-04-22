@@ -28,18 +28,15 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dlwnghd&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>
-    <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dlwnghd&show_icons=true&theme=gotham" alt="dlwnghd" width="500"/>
-    <a align="left" href="https://app.dooboo.io/dlwnghd"><img src="https://server.dooboo.io/github-stats/dlwnghd" width="500" /></a>
-    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="" />
+<div align="center">
+    <p> <img src="https://github-readme-stats.vercel.app/api?username=dlwnghd&show_icons=true&theme=gotham" alt="dlwnghd" width="400"/>
+    <a href="https://app.dooboo.io/dlwnghd"><img src="https://server.dooboo.io/github-stats/dlwnghd" width="400" /></a>
 </div>
 
-
-
-    
-<a href="https://github.com/dlwnghd/dlwnghd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnghd&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+<div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnghd&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" width="400" />
+    <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+</div>
 
 
 <h2> 📚 My tech stack </h2>
