@@ -9,7 +9,7 @@
 - 💻I'm a Software Engineer Interested in Web, Cloud and Design.
 - 🌏 I am from South Korea and living in Yongin.
 - 🔭 I’m currently looking for a company.
-- 🌱 I’m currently learning Java. 
+- 🌱 I’m currently learning React. 
 - 🚀 I always take care not to stay in my comfort zone.
 - 📫 How to reach me: alion0513@naver.com
 - 😄 Fun facts: I speak Korean and English. 😊
