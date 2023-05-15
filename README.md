@@ -23,6 +23,7 @@
 | --- | --- | --- |
 | [내부자] - (개인 자산 관리 사이트) | [EMBRASSER] - (결혼 정보 업체 관리자 사이트(OCR)) | [BYEOLZZI - (여행지 추천 챗봇)] |
 | [<img src="https://i.ytimg.com/vi/lbNyEYV8ICw/sddefault.jpg" alt="NaeBooja" width="90%">](https://www.youtube.com/watch?v=lbNyEYV8ICw) | [<img src="https://i.ytimg.com/vi/L-dOjge5jmQ/hqdefault.jpg" alt="EMBRASSER" width="100%">](https://www.youtube.com/watch?v=L-dOjge5jmQ&list=PLedGoSru794-sniV6--9gUIQuOz5EeKA9) | [<img src="https://i.ytimg.com/vi/-vqjrGk9fWk/hqdefault.jpg" alt="BYEOLZZI" width="100%">](https://www.youtube.com/watch?v=-vqjrGk9fWk&list=PLedGoSru7948D6s7qYmLzQT1uUJJTuKEA) |
+| --- | [EMBRASSER_포트폴리오(Python Web 개발 OCR).pdf](https://github.com/dlwnghd/dlwnghd/files/11477338/EMBRASSER_.Python.Web.OCR.pdf) | [별찌 포트폴리오(Python Web 개발).pdf](https://github.com/dlwnghd/dlwnghd/files/11477355/Python.Web.pdf) |
 
 <hr>
 
