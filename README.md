@@ -79,6 +79,8 @@ React
 
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+chatGPT
+
 <br>
 
 <h2> 💾 Databases </h2>
