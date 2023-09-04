@@ -33,8 +33,8 @@
 </div>
 
 <div style="text-align: center;" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dlwnghd&show_icons=true&theme=gotham" alt="dlwnghd" height="250px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnghd&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" height="250px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dlwnghd&show_icons=true&theme=gotham" alt="dlwnghd" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnghd&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" height="200px" />
 </div>
 
 
