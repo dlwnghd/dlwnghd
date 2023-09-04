@@ -9,7 +9,7 @@
 - 💻I'm a Software Engineer Interested in Web, Frontend and Design.
 - 🌏 I am from South Korea and living in Yongin.
 - 🔭 I’m currently looking for a company.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React and Next.js.
 - 🚀 I always take care not to stay in my comfort zone.
 - 📫 How to reach me: alion0513@naver.com
 - 😄 Fun facts: I speak Korean and English. 😊
@@ -49,7 +49,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-React
+![REACT](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=#5bccea)
 <br>
 
 <h2> 💻 Software and tools </h2>
@@ -58,7 +58,7 @@ React
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    GitHub Desktop
+    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-7d35a1.svg?logo=github-desktop&logoColor=white"></a>
 </p>
 
 <br>
@@ -78,8 +78,8 @@ React
 <h2> 🔍 Search Engines </h2>
 
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-chatGPT, wrtn.ai
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1da484?style=for-the-badge&logo=ChatGPT&logoColor=white)
+![Wrtn.ai](https://img.shields.io/badge/Wrtn.AI-5f33db?style=for-the-badge&logo=WrtnAI&logoColor=white)
 
 <br>
 
@@ -87,12 +87,20 @@ chatGPT, wrtn.ai
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MsSQL](https://img.shields.io/badge/Mssql-e63831.svg?style=for-the-badge&logo=mssql&logoColor=white)
 
 <br>
 
 <h2> 📚 Frameworks, Platforms and Libraries </h2>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=white)
+![ESLint](https://img.shields.io/badge/eslint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
+![Husky](https://img.shields.io/badge/husky-b26308.svg?style=for-the-badge&logo=husky&logoColor=white)
+![MSW(Mock Service Worker)](https://img.shields.io/badge/msw-fd6f39.svg?style=for-the-badge&logo=msw&logoColor=white)
+![ApexChart](https://img.shields.io/badge/apexchart-3699f3.svg?style=for-the-badge&logo=apexchart&logoColor=white)
+![Netilify](https://img.shields.io/badge/netilify-00C7B7.svg?style=for-the-badge&logo=netilify&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/thunderclient-8758af.svg?style=for-the-badge&logo=thunderclient&logoColor=white)
 
 <!--
 # Markdown Badges
@@ -227,6 +235,5 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Name               | Badge                                                                                                                                           | Markdown                                                                                                                                          |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Bootstrap          | ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)                           | `![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)`                           |
+           |
 -->
-prettier, eslint, husky, msw, apexchart, netilify, Thunder Client
-
