@@ -30,13 +30,11 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dlwnghd&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-    <p> <img src="https://github-readme-stats.vercel.app/api?username=dlwnghd&show_icons=true&theme=gotham" alt="dlwnghd" width="400"/>
-    <a href="https://app.dooboo.io/dlwnghd"><img src="https://server.dooboo.io/github-stats/dlwnghd" width="400" /></a>
 </div>
 
-<div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnghd&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" width="400" />
-    <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+<div style="text-align: center;" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=dlwnghd&show_icons=true&theme=gotham" alt="dlwnghd" height="250px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnghd&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" height="250px" />
 </div>
 
 
@@ -235,5 +233,4 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Name               | Badge                                                                                                                                           | Markdown                                                                                                                                          |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Bootstrap          | ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)                           | `![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)`                           |
-           |
 -->
