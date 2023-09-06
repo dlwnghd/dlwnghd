@@ -4,74 +4,71 @@
 
 <h1>Welcome to My GitHub!</h1>
 
-<hr>
-
-- 💻I'm a Software Engineer Interested in Web, Frontend and Design.
+- 💻I'm a Frontend Developer Interested in Web, Frontend and Interactive Design.
 - 🌏 I am from South Korea and living in Yongin.
 - 🔭 I’m currently looking for a company.
 - 🌱 I’m currently learning React and Next.js.
 - 🚀 I always take care not to stay in my comfort zone.
-- 📫 How to reach me: alion0513@naver.com
+- 📫 How to contact me: alion0513@naver.com
 - 😄 Fun facts: I speak Korean and English. 😊
-
-
-<hr>
 
 <h2> 🎬 My Project Video </h2>
 
-|     |     |     |
+| Java Web | Python Web(OCR) | Python Web(ChatBot) |
 | --- | --- | --- |
 | [내부자] - (개인 자산 관리 사이트) | [EMBRASSER] - (결혼 정보 업체 관리자 사이트(OCR)) | [BYEOLZZI - (여행지 추천 챗봇)] |
-| [<img src="https://i.ytimg.com/vi/lbNyEYV8ICw/sddefault.jpg" alt="NaeBooja" width="90%">](https://www.youtube.com/watch?v=lbNyEYV8ICw) | [<img src="https://i.ytimg.com/vi/L-dOjge5jmQ/hqdefault.jpg" alt="EMBRASSER" width="100%">](https://www.youtube.com/watch?v=L-dOjge5jmQ&list=PLedGoSru794-sniV6--9gUIQuOz5EeKA9) | [<img src="https://i.ytimg.com/vi/-vqjrGk9fWk/hqdefault.jpg" alt="BYEOLZZI" width="100%">](https://www.youtube.com/watch?v=-vqjrGk9fWk&list=PLedGoSru7948D6s7qYmLzQT1uUJJTuKEA) |
+| [<img src="https://i.ytimg.com/vi/lbNyEYV8ICw/sddefault.jpg" alt="NaeBooja" width="100%">](https://www.youtube.com/watch?v=lbNyEYV8ICw) | [<img src="https://i.ytimg.com/vi/L-dOjge5jmQ/hqdefault.jpg" alt="EMBRASSER" width="100%">](https://www.youtube.com/watch?v=L-dOjge5jmQ&list=PLedGoSru794-sniV6--9gUIQuOz5EeKA9) | [<img src="https://i.ytimg.com/vi/-vqjrGk9fWk/hqdefault.jpg" alt="BYEOLZZI" width="100%">](https://www.youtube.com/watch?v=-vqjrGk9fWk&list=PLedGoSru7948D6s7qYmLzQT1uUJJTuKEA) |
 | --- | [EMBRASSER_포트폴리오(Python Web 개발 OCR).pdf](https://github.com/dlwnghd/dlwnghd/files/11477338/EMBRASSER_.Python.Web.OCR.pdf) | [별찌 포트폴리오(Python Web 개발).pdf](https://github.com/dlwnghd/dlwnghd/files/11477355/Python.Web.pdf) |
-
-<hr>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dlwnghd&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-</div>
+<table style="text-align: center;" align="center" width="100%">
+    <tr>
+        <th>
+        <img src="https://github-readme-stats.vercel.app/api?username=dlwnghd&show_icons=true&theme=gotham" alt="dlwnghd" colspan="1"/>
+        </th>
+        <th>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnghd&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" colspan="1"/>
+        </th>
+    </tr>
+</table>
 
-<div style="text-align: center;" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dlwnghd&show_icons=true&theme=gotham" alt="dlwnghd" height="200px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnghd&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" height="200px" />
-</div>
+<h2>🎯 Mainly focusing on </h2>
 
+![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=#5bccea)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
+![Next](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-<h2> 📚 My tech stack </h2>
+<h2> 📚 My Main tech stack</h2>
 
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=#5bccea)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![REACT](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=#5bccea)
-<br>
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-7d35a1?style=for-the-badge&logo=github-desktop&logoColor=white)
+
 
 <h2> 💻 Software and tools </h2>
 
-<p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-7d35a1.svg?logo=github-desktop&logoColor=white"></a>
-</p>
-
-<br>
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-7d35a1?style=for-the-badge&logo=github-desktop&logoColor=white)
 
 <h2> 🕓 Version Control </h2>
 
+![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<br>
 
 <h2> 🗄️ Servers </h2>
 
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-
-<br>
 
 <h2> 🔍 Search Engines </h2>
 
@@ -79,17 +76,13 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-1da484?style=for-the-badge&logo=ChatGPT&logoColor=white)
 ![Wrtn.ai](https://img.shields.io/badge/Wrtn.AI-5f33db?style=for-the-badge&logo=WrtnAI&logoColor=white)
 
-<br>
-
 <h2> 💾 Databases </h2>
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MsSQL](https://img.shields.io/badge/Mssql-e63831.svg?style=for-the-badge&logo=mssql&logoColor=white)
 
-<br>
-
-<h2> 📚 Frameworks, Platforms and Libraries </h2>
+<h2> 🌐 Frameworks, Platforms and Libraries I've used</h2>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=white)
