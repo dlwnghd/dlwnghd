@@ -1,6 +1,6 @@
 ![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=1A0F14&height=105&section=footer&text=%20"견뎌"&fontColor=f5ce00&fontSize=70&animation=twinkling)
 
-### 안녕하세요!  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### 안녕하세요! 프론트엔드 개발자를 꿈꾸는 이주홍입니다.  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 - 💻 저는 웹과 프론트엔드 그리고 인터렉티브 디자인에 관심이 있습니다.
 - 🌏 저는 한국 용인에 거주중입니다.
