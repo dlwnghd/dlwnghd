@@ -30,16 +30,14 @@
 #### ⚙️ 익숙한 기술 스택 
 
 - ##### 🖌️FrontEnd
-    * ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=ffffff)  
+    * ![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=#5bccea)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5.svg?style=for-the-badge&logo=Recoil&logoColor=white)
-![StyledComponent](https://img.shields.io/badge/Styled%20Components-DB7093.svg?style=for-the-badge&logo=Styled%20Components&logoColor=white)  
+![Recoil](https://img.shields.io/badge/Recoil-3578E5.svg?style=for-the-badge&logo=Recoil&logoColor=white)  
+![StyledComponent](https://img.shields.io/badge/Styled%20Components-DB7093.svg?style=for-the-badge&logo=Styled%20Components&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![Prettier](https://img.shields.io/badge/prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
 ![Husky](https://img.shields.io/badge/husky-b26308.svg?style=for-the-badge&logo=husky&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 - ##### 🗄️BackEnd
     * ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -72,7 +70,7 @@
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 
----
+<!-- ---
 
 #### 👁️‍🗨️그 외 사용해본적이 있는 기술 스택
 
@@ -84,11 +82,4 @@
 ![MSSQL](https://img.shields.io/badge/mssql-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MSW(Mock Service Worker)](https://img.shields.io/badge/msw-fd6f39.svg?style=for-the-badge&logo=msw&logoColor=white)
 ![ApexChart](https://img.shields.io/badge/apexchart-3699f3.svg?style=for-the-badge&logo=apexchart&logoColor=white)
-![Thunder Client](https://img.shields.io/badge/thunderclient-8758af.svg?style=for-the-badge&logo=thunderclient&logoColor=white)
-
----
-
-#### 📊 깃 허브 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dlwnghd&theme=react-dark" alt="https://github.com/ashutosh00710/github-readme-activity-graph">
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=dlwnghd&show_icons=true&theme=gotham" alt="dlwnghd" colspan="1"/> -->
+![Thunder Client](https://img.shields.io/badge/thunderclient-8758af.svg?style=for-the-badge&logo=thunderclient&logoColor=white) -->
