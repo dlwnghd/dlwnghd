@@ -1,5 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Juhong&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlign=57&animation=twinkling)
-### JuHong | 기술을 적용하기 위해 노력하는 개발자  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+
+### JuHong | 기술을 적용하기 위해 노력하는 개발자 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+
 - 💻 저는 웹과 프론트엔드 그리고 인터렉티브 디자인에 관심이 있습니다.
 - 🌏 저는 한국 경기도 용인에 거주중입니다.
 - 🌱 저는 현재 React와 Next.js 그리고 TypeScript를 공부하고 있습니다.
@@ -10,7 +12,7 @@
 #### 🎨 프론트엔드 프로젝트
 
 <p>
-  <a href="https://github.com/FrontTeam2/React_FinalProject"><img src="https://img.shields.io/badge/Nego Market-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/FrontTeam2/React_FinalProject"/></a>
+  <a href="https://github.com/dlwnghd/React_FinalProject"><img src="https://img.shields.io/badge/Nego Market-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/FrontTeam2/React_FinalProject"/></a>
   <a href="https://github.com/dlwnghd/GitApi"><img src="https://img.shields.io/badge/Git Issue-9cf0e7?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/dlwnghd/GitApi"/></a>
   <a href="https://github.com/FrontTeam2/React_SearchApi/tree/juhong"><img src="https://img.shields.io/badge/Search-ffbff0?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/FrontTeam2/React_SearchApi/tree/juhong"/></a>
 </p>
