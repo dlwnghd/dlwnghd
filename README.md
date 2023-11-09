@@ -3,7 +3,7 @@
 ### JuHong | 기술을 적용하기 위해 노력하는 개발자 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 - 💻 저는 웹과 프론트엔드 그리고 인터렉티브 디자인에 관심이 있습니다.
-- 🌏 저는 한국 경기도 용인에 거주중입니다.
+- - 🌏 저는 한국 경기도 용인에 거주중입니다.
 - 🌱 저는 현재 React와 Next.js 그리고 TypeScript를 공부하고 있습니다.
 - 📫 email : alion0513@naver.com
 
@@ -34,16 +34,11 @@
 - ##### 🖌️FrontEnd
     * ![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=#5bccea)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5.svg?style=for-the-badge&logo=Recoil&logoColor=white)  
-![StyledComponent](https://img.shields.io/badge/Styled%20Components-DB7093.svg?style=for-the-badge&logo=Styled%20Components&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Prettier](https://img.shields.io/badge/prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=white)
-![ESLint](https://img.shields.io/badge/eslint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
-![Husky](https://img.shields.io/badge/husky-b26308.svg?style=for-the-badge&logo=husky&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5.svg?style=for-the-badge&logo=Recoil&logoColor=white)
+![StyledComponent](https://img.shields.io/badge/Styled%20Components-black.svg?style=for-the-badge&logo=Styled%20Components&logoColor=DB7093)
 
 - ##### 🗄️BackEnd
     * ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 - ##### 🕓Configuration Management
@@ -57,7 +52,7 @@
 
 - ##### 🛠️Tools / 🔍Search Engine
     * ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-1da484?style=for-the-badge&logo=ChatGPT&logoColor=white)
 ![Wrtn.ai](https://img.shields.io/badge/Wrtn.AI-5f33db?style=for-the-badge&logo=WrtnAI&logoColor=white)
@@ -70,7 +65,6 @@
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=#5bccea)
 ![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 <!-- ---
 
