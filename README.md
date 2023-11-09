@@ -2,11 +2,6 @@
 
 ### JuHong | 기술을 적용하기 위해 노력하는 개발자 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-- 💻 저는 웹과 프론트엔드 그리고 인터렉티브 디자인에 관심이 있습니다.
-- - 🌏 저는 한국 경기도 용인에 거주중입니다.
-- 🌱 저는 현재 React와 Next.js 그리고 TypeScript를 공부하고 있습니다.
-- 📫 email : alion0513@naver.com
-
 ---
 
 #### 🎨 프론트엔드 프로젝트
