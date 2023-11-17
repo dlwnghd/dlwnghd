@@ -65,6 +65,13 @@
 ![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
 
+---
+
+#### ✍️ 최근 블로그 글
+<a href="https://velog-readme-stats.vercel.app/api/redirect?name=dlwnghd"><img src="https://velog-readme-stats.vercel.app/api?name=dlwnghd"></a>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlwnghd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 <!-- ---
 
 #### 👁️‍🗨️그 외 사용해본적이 있는 기술 스택
