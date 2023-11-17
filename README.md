@@ -8,6 +8,10 @@
 
 <p>
   <a href="https://github.com/dlwnghd/React_FinalProject"><img src="https://img.shields.io/badge/Nego Market-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/FrontTeam2/React_FinalProject"/></a>
+
+
+- ##### 🧸 프론트엔드 토이 프로젝트
+  <p>
   <a href="https://github.com/dlwnghd/GitApi"><img src="https://img.shields.io/badge/Git Issue-9cf0e7?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/dlwnghd/GitApi"/></a>
   <a href="https://github.com/FrontTeam2/React_SearchApi/tree/juhong"><img src="https://img.shields.io/badge/Search-ffbff0?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/FrontTeam2/React_SearchApi/tree/juhong"/></a>
 </p>
