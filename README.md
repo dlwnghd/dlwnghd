@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Juhong&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlign=57&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Juhong&section=header&textBg=false&fontSize=90&animation=fadeIn&descAlign=40&desc=Frontend%20Developer&descSize=15&descAlignY=69)
 
 ### JuHong | 기술을 적용하기 위해 노력하는 개발자 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
