@@ -31,7 +31,7 @@
 #### ⚙️ 익숙한 기술 스택 
 
 - ##### 🖌️FrontEnd
-    * ![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=ffffff)
+    * ![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=#5bccea)
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5.svg?style=for-the-badge&logo=Recoil&logoColor=white)
 ![StyledComponent](https://img.shields.io/badge/Styled%20Components-black.svg?style=for-the-badge&logo=Styled%20Components&logoColor=DB7093)
