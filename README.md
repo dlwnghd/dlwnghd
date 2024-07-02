@@ -1,13 +1,15 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Juhong&section=header&textBg=false&fontSize=90&animation=fadeIn&descAlign=40&desc=Frontend%20Developer&descSize=15&descAlignY=69)
 
-### JuHong | 기술을 적용하기 위해 노력하는 개발자 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### JuHong | 동료의 성장 = 나의 성장이라고 믿는 개발자 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 ---
 
 #### 🎨 프론트엔드 프로젝트
 
 <p>
+  <a href="https://github.com/KDT1-FE/KDT_FE7_Final_Project/tree/KDT_FE7_Final-Project_Team6"><img src="https://img.shields.io/badge/Apartner-D9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/KDT1-FE/KDT_FE7_Final_Project/tree/KDT_FE7_Final-Project_Team6"/></a>
   <a href="https://github.com/dlwnghd/React_FinalProject"><img src="https://img.shields.io/badge/Nego Market-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/FrontTeam2/React_FinalProject"/></a>
+  </p>
 
 
 - ##### 🧸 프론트엔드 토이 프로젝트
@@ -33,8 +35,10 @@
 - ##### 🖌️FrontEnd
     * ![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=#5bccea)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5.svg?style=for-the-badge&logo=Recoil&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![StyledComponent](https://img.shields.io/badge/Styled%20Components-black.svg?style=for-the-badge&logo=Styled%20Components&logoColor=DB7093)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5.svg?style=for-the-badge&logo=Recoil&logoColor=white)
 
 - ##### 🗄️BackEnd
     * ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
