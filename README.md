@@ -35,10 +35,11 @@
 - ##### 🖌️FrontEnd
     * ![Javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=#5bccea)
-![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
 ![StyledComponent](https://img.shields.io/badge/Styled%20Components-black.svg?style=for-the-badge&logo=Styled%20Components&logoColor=DB7093)
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5.svg?style=for-the-badge&logo=Recoil&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
 
 - ##### 🗄️BackEnd
     * ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -56,6 +57,8 @@
 - ##### 🛠️Tools / 🔍Search Engine
     * ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-1da484?style=for-the-badge&logo=ChatGPT&logoColor=white)
 ![Wrtn.ai](https://img.shields.io/badge/Wrtn.AI-5f33db?style=for-the-badge&logo=WrtnAI&logoColor=white)
