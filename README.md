@@ -1,32 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Juhong&section=header&textBg=false&fontSize=90&animation=fadeIn&descAlign=40&desc=Frontend%20Developer&descSize=15&descAlignY=69)
 
-### JuHong | 동료의 성장 = 나의 성장이라고 믿는 개발자 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-
----
-
-#### 🎨 프론트엔드 프로젝트
-
-<p>
-  <a href="https://github.com/KDT1-FE/KDT_FE7_Final_Project/tree/KDT_FE7_Final-Project_Team6"><img src="https://img.shields.io/badge/Apartner-D9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/KDT1-FE/KDT_FE7_Final_Project/tree/KDT_FE7_Final-Project_Team6"/></a>
-  <a href="https://github.com/dlwnghd/React_FinalProject"><img src="https://img.shields.io/badge/Nego Market-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/FrontTeam2/React_FinalProject"/></a>
-  </p>
-
-
-- ##### 🧸 프론트엔드 토이 프로젝트
-  <p>
-  <a href="https://github.com/dlwnghd/GitApi"><img src="https://img.shields.io/badge/Git Issue-9cf0e7?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/dlwnghd/GitApi"/></a>
-  <a href="https://github.com/FrontTeam2/React_SearchApi/tree/juhong"><img src="https://img.shields.io/badge/Search-ffbff0?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/FrontTeam2/React_SearchApi/tree/juhong"/></a>
-</p>
-
----
-
-#### 🎬 웹 프로젝트 시연 영상
-
-| Java Web | Python Web(OCR) | Python Web(ChatBot) |
-| --- | --- | --- |
-| [내부자 (내 가계부의 관리자)] <br>- 개인 자산 관리 사이트 | [EMBRASSER] <br>- 결혼 정보 업체 관리자 사이트 | [BYEOLZZI] <br>- 여행지 추천 챗봇 사이트 |
-| [<img src="https://i.ytimg.com/vi/lbNyEYV8ICw/sddefault.jpg" alt="NaeBooja" width="100%">](https://www.youtube.com/watch?v=lbNyEYV8ICw) | [<img src="https://i.ytimg.com/vi/L-dOjge5jmQ/hqdefault.jpg" alt="EMBRASSER" width="100%">](https://www.youtube.com/watch?v=L-dOjge5jmQ&list=PLedGoSru794-sniV6--9gUIQuOz5EeKA9) | [<img src="https://i.ytimg.com/vi/-vqjrGk9fWk/hqdefault.jpg" alt="BYEOLZZI" width="100%">](https://www.youtube.com/watch?v=-vqjrGk9fWk&list=PLedGoSru7948D6s7qYmLzQT1uUJJTuKEA) |
-| --- | [EMBRASSER_포트폴리오(Python Web 개발 OCR).pdf](https://github.com/dlwnghd/dlwnghd/files/11477338/EMBRASSER_.Python.Web.OCR.pdf) | [별찌 포트폴리오(Python Web 개발).pdf](https://github.com/dlwnghd/dlwnghd/files/11477355/Python.Web.pdf) |
+### JuHong | 동료의 성장 = 나의 성장이라고 믿는 개발자 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" style="cursor: none;" />
 
 ---
 
@@ -71,6 +45,32 @@
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=React&logoColor=#5bccea)
 ![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
+
+---
+
+#### 🎨 프론트엔드 프로젝트
+
+<p>
+  <a href="https://github.com/KDT1-FE/KDT_FE7_Final_Project/tree/KDT_FE7_Final-Project_Team6"><img src="https://img.shields.io/badge/Apartner-D9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/KDT1-FE/KDT_FE7_Final_Project/tree/KDT_FE7_Final-Project_Team6"/></a>
+  <a href="https://github.com/dlwnghd/React_FinalProject"><img src="https://img.shields.io/badge/Nego Market-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/FrontTeam2/React_FinalProject"/></a>
+  </p>
+
+
+- ##### 🧸 프론트엔드 토이 프로젝트
+  <p>
+  <a href="https://github.com/dlwnghd/GitApi"><img src="https://img.shields.io/badge/Git Issue-9cf0e7?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/dlwnghd/GitApi"/></a>
+  <a href="https://github.com/FrontTeam2/React_SearchApi/tree/juhong"><img src="https://img.shields.io/badge/Search-ffbff0?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/FrontTeam2/React_SearchApi/tree/juhong"/></a>
+</p>
+
+---
+
+#### 🎬 웹 프로젝트 시연 영상
+
+| Java Web | Python Web(OCR) | Python Web(ChatBot) |
+| --- | --- | --- |
+| [내부자 (내 가계부의 관리자)] <br>- 개인 자산 관리 사이트 | [EMBRASSER] <br>- 결혼 정보 업체 관리자 사이트 | [BYEOLZZI] <br>- 여행지 추천 챗봇 사이트 |
+| [<img src="https://i.ytimg.com/vi/lbNyEYV8ICw/sddefault.jpg" alt="NaeBooja" width="100%">](https://www.youtube.com/watch?v=lbNyEYV8ICw) | [<img src="https://i.ytimg.com/vi/L-dOjge5jmQ/hqdefault.jpg" alt="EMBRASSER" width="100%">](https://www.youtube.com/watch?v=L-dOjge5jmQ&list=PLedGoSru794-sniV6--9gUIQuOz5EeKA9) | [<img src="https://i.ytimg.com/vi/-vqjrGk9fWk/hqdefault.jpg" alt="BYEOLZZI" width="100%">](https://www.youtube.com/watch?v=-vqjrGk9fWk&list=PLedGoSru7948D6s7qYmLzQT1uUJJTuKEA) |
+| --- | [EMBRASSER_포트폴리오(Python Web 개발 OCR).pdf](https://github.com/dlwnghd/dlwnghd/files/11477338/EMBRASSER_.Python.Web.OCR.pdf) | [별찌 포트폴리오(Python Web 개발).pdf](https://github.com/dlwnghd/dlwnghd/files/11477355/Python.Web.pdf) |
 
 ---
 
